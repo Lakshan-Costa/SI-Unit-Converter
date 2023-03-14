@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-350567118/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-350567118/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/62074233/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/62074233/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-375850668/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-375850668/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-236121346/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-236121346/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1982189503/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-1982189503/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/375357915/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/375357915/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1723887155/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1723887155/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1304277941/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1304277941/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/476339839/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/476339839/android.shared_preferences_android.iml" />
+    </modules>
+  </component>
+</project>

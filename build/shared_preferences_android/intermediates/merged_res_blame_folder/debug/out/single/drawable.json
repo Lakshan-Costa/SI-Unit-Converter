@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Lakshan\\si_unit_app\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Lakshan\\.gradle\\caches\\transforms-2\\files-2.1\\95d0f128fed1826f6af4deb1759347d8\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshan\\si_unit_app\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Lakshan\\.gradle\\caches\\transforms-2\\files-2.1\\95d0f128fed1826f6af4deb1759347d8\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshan\\si_unit_app\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Lakshan\\.gradle\\caches\\transforms-2\\files-2.1\\95d0f128fed1826f6af4deb1759347d8\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lakshan\\si_unit_app\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Lakshan\\.gradle\\caches\\transforms-2\\files-2.1\\95d0f128fed1826f6af4deb1759347d8\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
