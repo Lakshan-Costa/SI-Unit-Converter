@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lazycoder/si_unit_app/BuildConfig.java
+ com.lazycoder.si_unit_app.BuildConfig
