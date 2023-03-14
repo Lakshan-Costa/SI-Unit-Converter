@@ -1,0 +1,78 @@
+final Map<String, dynamic> changes= {
+
+  /// THIS PAGE DONE!
+
+  "Square kilometer-Square kilometer":  1,
+  "Square kilometer-Square meter":  1e+6,
+  "Square kilometer-Square mile":  0.386102,
+  "Square kilometer-Square yard":  1.196e+6,
+  "Square kilometer-Square foot":  1.076e+7,
+  "Square kilometer-Square inch":  1.55e+9,
+  "Square kilometer-Hectare":  100,
+  "Square kilometer-Acre":  247.105,
+
+  "Square meter-Square kilometer":  1e-6,
+  "Square meter-Square meter":  1,
+  "Square meter-Square mile":  3.861e-7,
+  "Square meter-Square yard":  1.19599,
+  "Square meter-Square foot":  10.7639,
+  "Square meter-Square inch":  1550,
+  "Square meter-Hectare": 1e-4,
+  "Square meter-Acre":  0.000247105,
+
+  "Square mile-Square kilometer": 2.58999,
+  "Square mile-Square meter":  2.59e+6,
+  "Square mile-Square mile":  1,
+  "Square mile-Square yard":  3.098e+6,
+  "Square mile-Square foot":  2.788e+7,
+  "Square mile-Square inch":  4.014e+9,
+  "Square mile-Hectare":  258.999,
+  "Square mile-Acre":  640,
+
+  "Square yard-Square kilometer":  8.3613e-7,
+  "Square yard-Square meter":  0.836127,
+  "Square yard-Square mile":  3.2283e-7,
+  "Square yard-Square yard":  1,
+  "Square yard-Square foot":  9,
+  "Square yard-Square inch":  1296,
+  "Square yard-Hectare":  8.3613e-5,
+  "Square yard-Acre":  0.000206612,
+
+  "Square foot-Square kilometer":  9.2903e-8,
+  "Square foot-Square meter":  0.092903,
+  "Square foot-Square mile":  0.092903,
+  "Square foot-Square yard":  0.111111,
+  "Square foot-Sqare foot":  1,
+  "Square foot-Square inch":  144,
+  "Square foot-Hectare":  9.2903e-6,
+  "Square foot-Acre":  2.2957e-5,
+
+  "Square inch-Square kilometer":  6.4516e-10,
+  "Square inch-Square meter":  0.00064516,
+  "Square inch-Square mile":  2.491e-10,
+  "Square inch-Square yard":  0.000771605,
+  "Square inch-Square foot":  0.00694444,
+  "Square inch-Square inch":  1,
+  "Square inch-Hectare":  6.4516e-8,
+  "Square inch-Acre":  1.5942e-7,
+
+  "Hectare-Square kilometer":  0.01,
+  "Hectare-Square meter":  10000,
+  "Hectare-Square mile":  0.00386102,
+  "Hectare-Square yard":  11959.9,
+  "Hectare-Square foot":  107639,
+  "Hectare-Square inch":  1.55e+7,
+  "Hectare-Hectare":  1,
+  "Hectare-Acre":  2.47105,
+
+  "Acre-Square kilometer":  0.00404686,
+  "Acre-Square meter":  4046.86,
+  "Acre-Square mile":  0.0015625,
+  "Acre-Square yard":  4840,
+  "Acre-Square foot":  43560,
+  "Acre-Square inch":  6.273e+6,
+  "Acre-Hectare":  0.404686,
+  "Acre-Acre":  1,
+
+
+};
