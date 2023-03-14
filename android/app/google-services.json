@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3550644756",
+    "project_id": "units-c536c",
+    "storage_bucket": "units-c536c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3550644756:android:afa04117cc1a935d8af501",
+        "android_client_info": {
+          "package_name": "com.lazycoder.si_unit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3550644756-dcpkon61mpv5fjhgsut0e3gn7pcfb6jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcODkU-6U5RAcI3lvvDMtP_vgTDfWgfco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3550644756-dcpkon61mpv5fjhgsut0e3gn7pcfb6jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
